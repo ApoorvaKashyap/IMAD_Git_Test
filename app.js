@@ -1,14 +1,12 @@
-function  newFeature()
-{
-	console.log('Adding a New Feature!');
-	console.log('Halfway Done!');
-	console.log('Development Finished!');
-}
 function smthng()
 {
 	console.log('New Function');
+  console.log('Bug Fixed!');
 }
 
-console.log('hi');
+  console.log('hi');
+}
+
+console.log('Hi');
 smthng();
-newFeature();
+
